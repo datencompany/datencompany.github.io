@@ -19,7 +19,7 @@ description:	       "the drive in data-driven company"
 author:              "daten.company"
 twitter:
   username: datencompany
-  card: summary
+  card: summary_large_image
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
