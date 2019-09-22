@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Künstliche Intelligenz als Strategie - nicht als Taktik"
-author: "Dr. Georg Walther"
+author: "daten.company"
 categories: insights
 tags: [ki]
 image: earth.jpg
