@@ -4,7 +4,9 @@ title: "Künstliche Intelligenz als Strategie - nicht als Taktik"
 author: "daten.company"
 categories: insights
 tags: [ki]
-image: /assets/img/earth.jpg
+image: earth.jpg
+twitter:
+    image: /assets/img/earth.jpg
 language: de
 ---
 
