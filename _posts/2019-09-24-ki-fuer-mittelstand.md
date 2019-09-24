@@ -32,7 +32,7 @@ Weiterhin beschreibt die Studie die Erkenntnis dass aktuell dem Mittelstand am m
 
 ![image](https://user-images.githubusercontent.com/3273502/65496169-408f6980-deb8-11e9-95aa-d7a628cec550.png)*https://www.mittelstand-digital.de/MD/Redaktion/DE/Publikationen/kuenstliche-intelligenz-im-mittelstand.html*
 
-Unsere Erfahrung deckt sich mit diesen Zahlen: Den größten Aha-Effekt in der Einführung neuer datengetriebener Methoden erzielen wir mit gemeinsam live ausgearbeiteten Prototypen (Pair Programming) auf durch den Fachbereich des Kunden bereitgestellte Daten.
-Wichtig für den großen Aha-Effekt: Wir bauen alle Prototypen auf gängigen Laptops mit aktuellen (kostenlosen) Open Source Frameworks aus dem [PyData Ökosystem](/technologies/pydata) - das schafft Nähe und Greifbarkeit für unsere Partner. Cloud as-a-service und Big Data Lösungen sind in unserer Erfahrung oftmals hinten anstellbar.
+Unsere Erfahrung deckt sich mit diesen Zahlen: Den größten Aha-Effekt in der Einführung neuer datengetriebener Methoden erzielen wir mit gemeinsam live ausgearbeiteten Prototypen (Pair Programming) auf durch den Fachbereich des Kunden bereitgestellten Daten.
+Wichtig für den großen Aha-Effekt: Wir bauen alle Prototypen auf gängigen Laptops mit aktuellen (kostenlosen) Open Source Frameworks u.a. aus dem [PyData Ökosystem](/technologies/pydata) - das schafft Nähe und Greifbarkeit für unsere Partner. Cloud as-a-service und Big Data Lösungen sind in unserer Erfahrung oftmals hinten anstellbar.
 
 Dadurch nehmen wir den Hauch an Magie welcher der Künstlichen Intelligenz oft anhängt und eröffnen unseren Partnern aus den Fachbereichen einen passenden gedanklichen Framework um selbständiger ideale Problemstellungen und Use Cases für Ansätze aus der KI und Machine Learning zu identifizieren.
